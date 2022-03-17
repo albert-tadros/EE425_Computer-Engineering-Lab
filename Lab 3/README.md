@@ -1,0 +1,2 @@
+# Objectives:
+The goal of this experimentis to demonstrate thebuilt-in analog-to-digital conversion(ADC) module of the PIC18F4520 and the digital-to-analog conversion (DAC) module which is external to the PIC.Through measurement data, the AD conversion error by the PIC is to be determined. Also, the Nyquist frequency of the DAC process is to be estimated. The code necessary to perform the ADC and DAC was added to the P2 templateand P2 template_Part2assembly files.
